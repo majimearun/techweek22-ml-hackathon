@@ -1,0 +1,18 @@
+1. majime.ipynb: My notebook where all code resides
+2. majime.html: In case judge needs to view only the notebook and interactive graphs, they can do so with this file in the browser
+3. submission.csv: my submission in required format
+4. method_of_approach.pdf: describing my method of solving/reasoning
+4. data
+    a) train.csv
+    b) test.csv
+5. output
+    a) submission.csv: a copy of my submission (stored here by notebook)
+    b) hyper_parameter_tuning_results.csv (a file that can be used to avoid tuning the model each run)
+    c) model.h5 (saved model that I have used for the sake of reproducibility)
+
+NOTE: If graphs are not rendering even after insatalling plotly/using cloud, comment out the following lines in import section, restart the kernel and run.
+
+```
+import plotly.io as pio
+pio.renderers.default='notebook'
+```
