@@ -1,0 +1,25 @@
+params,accuracy
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 64, 'filters': 60}",0.7755102040816326
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 128, 'filters': 60}",0.7716836734693877
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 128, 'filters': 60}",0.7710459183673469
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 128, 'filters': 60}",0.7697704081632653
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 128, 'filters': 70}",0.7691326530612245
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 128, 'filters': 80}",0.7691326530612245
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 128, 'filters': 70}",0.7678571428571429
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 64, 'filters': 70}",0.767219387755102
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 64, 'filters': 70}",0.7665816326530612
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 64, 'filters': 60}",0.7665816326530612
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 64, 'filters': 80}",0.7659438775510204
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 64, 'filters': 60}",0.7653061224489796
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 64, 'filters': 80}",0.7653061224489796
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 128, 'filters': 70}",0.7653061224489796
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 128, 'filters': 60}",0.7646683673469388
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 128, 'filters': 80}",0.764030612244898
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 64, 'filters': 80}",0.7633928571428571
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 128, 'filters': 80}",0.7627551020408163
+"{'activation': 'tanh', 'batch_size': 32, 'embedding_dim': 64, 'filters': 70}",0.7614795918367347
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 128, 'filters': 70}",0.7614795918367347
+"{'activation': 'tanh', 'batch_size': 48, 'embedding_dim': 64, 'filters': 70}",0.7608418367346939
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 64, 'filters': 80}",0.7608418367346939
+"{'activation': 'relu', 'batch_size': 32, 'embedding_dim': 64, 'filters': 60}",0.7608418367346939
+"{'activation': 'relu', 'batch_size': 48, 'embedding_dim': 128, 'filters': 80}",0.7570153061224489
